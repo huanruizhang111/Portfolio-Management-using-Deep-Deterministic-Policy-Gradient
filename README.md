@@ -7,4 +7,4 @@ Below is the desciptions for each file in this repo:
 
 **Poster.pdf**: The proposal of this project before I start. This poster gives the overview of my ideas and how I approaching the problem.
 
-**Report.pdf**: The final report of this project. This report states full detail from background introduction, problem formulation, problem classifitcation, solution method, implementation, results, conclusion, and references.
+**Report.pdf**: The final report of this project. This report states full detail from background introduction, problem formulation, problem classifitcation, solution methods, implementation, results, conclusion, and references.
